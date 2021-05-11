@@ -1,5 +1,3 @@
-
-
 export function App() {
   return (
     <div className="App">
@@ -7,4 +5,3 @@ export function App() {
     </div>
   );
 }
-
